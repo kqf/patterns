@@ -16,3 +16,8 @@ One can use inheritance to achieve higher flexibility.
 ![memento UML diagram](https://upload.wikimedia.org/wikipedia/commons/1/18/Memento_design_pattern.png)
 
 In this realisation `state` corresponds to `originator`. 
+
+
+3. Visitor:
+------------------
+![visitor UML diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/VisitorDiagram.svg/515px-VisitorDiagram.svg.png)
