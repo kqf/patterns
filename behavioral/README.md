@@ -21,3 +21,7 @@ In this realisation `state` corresponds to `originator`.
 3. Visitor:
 ------------------
 ![visitor UML diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/VisitorDiagram.svg/515px-VisitorDiagram.svg.png)
+
+3. Chain of responsibility:
+------------------
+![Chain of responsibility UML diagram](https://upload.wikimedia.org/wikipedia/ru/a/ae/Chain.png)
