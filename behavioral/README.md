@@ -22,6 +22,11 @@ In this realisation `state` corresponds to `originator`.
 ------------------
 ![visitor UML diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/VisitorDiagram.svg/515px-VisitorDiagram.svg.png)
 
-3. Chain of responsibility:
-------------------
+4. Chain of responsibility:
+---------------------------
 ![Chain of responsibility UML diagram](https://upload.wikimedia.org/wikipedia/ru/a/ae/Chain.png)
+
+5. Command:
+---------------------------
+![Command UML diagram](https://upload.wikimedia.org/wikipedia/ru/0/0c/Command.gif)
+Here we don't have `Invoker` class but instead we have ```int i```  that plays role of the invoker.
