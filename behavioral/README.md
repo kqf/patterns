@@ -29,4 +29,5 @@ In this realisation `state` corresponds to `originator`.
 5. Command:
 ---------------------------
 ![Command UML diagram](https://upload.wikimedia.org/wikipedia/ru/0/0c/Command.gif)
+
 Here we don't have `Invoker` class but instead we have ```int i```  that plays role of the invoker.
