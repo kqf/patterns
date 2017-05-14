@@ -11,9 +11,9 @@ Behavioral patterons from GoF book
 - [x] Mediator 
 - [x] Memento 
 - [x] Observer
-- [ ] State 
+- [x] State 
 - [x] Strategy
-- [ ] Template method 
+- [x] Template method 
 - [x] Visitor 
 
 
@@ -50,3 +50,7 @@ Here we don't have `Invoker` class but instead we have ```int i```  that plays r
 
 7. Strategy:
 ![Strategy UML diagram](https://upload.wikimedia.org/wikipedia/commons/3/39/Strategy_Pattern_in_UML.png)
+
+8. State 
+
+9. Template method
