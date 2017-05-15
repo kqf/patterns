@@ -6,7 +6,7 @@ Behavioral patterons from GoF book
 
 - [x] Chain of responsibility
 - [x] Command
-- [ ] Interpreter 
+- [x] Interpreter 
 - [ ] Iterator 
 - [x] Mediator 
 - [x] Memento 
@@ -54,3 +54,5 @@ Here we don't have `Invoker` class but instead we have ```int i```  that plays r
 8. State 
 
 9. Template method
+
+10. Interpreter
