@@ -7,7 +7,7 @@ Behavioral patterons from GoF book
 - [x] Chain of responsibility
 - [x] Command
 - [x] Interpreter 
-- [ ] Iterator 
+- [x] Iterator 
 - [x] Mediator 
 - [x] Memento 
 - [x] Observer
