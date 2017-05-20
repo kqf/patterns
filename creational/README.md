@@ -6,7 +6,7 @@
 
 - [x] Factory method
 - [x] Abstract factory
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 - [ ] Singleton
 
@@ -20,3 +20,7 @@
 
 ### Abstract factory 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abstract_factory_UML.svg/677px-Abstract_factory_UML.svg.png)
+
+
+### Builder 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Builder_UML_class_diagram.svg/1400px-Builder_UML_class_diagram.svg.png)
