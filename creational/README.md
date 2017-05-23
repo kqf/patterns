@@ -1,21 +1,14 @@
 # Creational patterns 
 
-
-**TODO:**
-
-
 - [x] Factory method
 - [x] Abstract factory
 - [x] Builder
 - [x] Prototype
-- [ ] Singleton
+- [x] Singleton
 
 
 ### Factory method 
-
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_WikiFactoryMethod.png/734px-New_WikiFactoryMethod.png)
-
 
 
 ### Abstract factory 
@@ -28,3 +21,7 @@
 
 ### Prototype
 ![](https://upload.wikimedia.org/wikipedia/ru/2/25/Prototype.gif)
+
+
+### Singleton
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Singleton_UML_class_diagram.svg/500px-Singleton_UML_class_diagram.svg.png)
