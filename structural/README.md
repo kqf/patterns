@@ -9,10 +9,14 @@
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy
 
 
 ### Adapter
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_WikiFactoryMethod.png/734px-New_WikiFactoryMethod.png)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d7/ObjectAdapter.png)
+
+
+### Proxy
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proxy_pattern_diagram.svg/439px-Proxy_pattern_diagram.svg.png)
 
     
