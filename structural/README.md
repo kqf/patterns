@@ -8,7 +8,7 @@
 - [x] Composite
 - [x] Decorator
 - [x] Facade
-- [ ] Flyweight
+- [x] Flyweight
 - [x] Proxy
 
 
@@ -31,3 +31,6 @@
 ### Facade
 ![](https://upload.wikimedia.org/wikipedia/en/5/57/Example_of_Facade_design_pattern_in_UML.png)
     
+
+### Flyweight
+![](https://upload.wikimedia.org/wikipedia/ru/e/ee/Flyweight.gif)
