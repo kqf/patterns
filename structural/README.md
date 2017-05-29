@@ -1,10 +1,7 @@
 # Structural patterns 
 
-
-**TODO:**
-
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [x] Composite
 - [x] Decorator
 - [x] Facade
@@ -34,3 +31,7 @@
 
 ### Flyweight
 ![](https://upload.wikimedia.org/wikipedia/ru/e/ee/Flyweight.gif)
+
+
+### Bridge 
+![](https://upload.wikimedia.org/wikipedia/ru/8/81/Bridgeuml.gif)
