@@ -8,4 +8,4 @@ test: $(BIN_FILES)
 	
 
 %.bin: %.cc
-	g++ $< -o $@
+	g++ $< -o $@ -std=c++11

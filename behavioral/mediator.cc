@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <set>
+#include <cstdlib>
 
 using std::cout;
 using std::endl;

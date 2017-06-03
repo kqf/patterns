@@ -109,7 +109,7 @@ int main(int argc, char const *argv[])
 {
     // Client code
 
-    int size = 3;
+    const int size = 3;
     AbstractFactory * factories[size] = {new OsxFactory(), new WinFactory(), new OsxFactory()};
 
     cout << "Creating windows: " << endl << endl;
