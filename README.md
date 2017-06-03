@@ -1,4 +1,4 @@
-Design Patterns
+Design Patterns ![status](https://travis-ci.com/kqf/patterns.svg?branch=master)
 ===============
 
 ## Creational patterns 
