@@ -1,0 +1,10 @@
+language: 
+  - cpp
+
+compiler:
+  - gcc
+
+script:
+  - make test directory=behavioral
+  - make test directory=creational
+  - make test directory=structural
